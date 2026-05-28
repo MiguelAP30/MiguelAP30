@@ -27,13 +27,13 @@ Hey! I'm **Miguel**, a Systems Engineer passionate about building complex inform
 
 ## 🧠 What I Work On
 
-```text
-🔷 Full Stack Development    ██████████████████░░   90%
-🤖 AI / LLM Engineering      ████████████████░░░░   80%
-🛠️ Backend & APIs            ████████████████████   95%
-🎨 Frontend & UI             ██████████████░░░░░░   70%
-⚙️ Automation & SRE          █████████████░░░░░░░   65%
-` ` `
+| Area | Level |
+|------|-------|
+| 🔷 Full Stack Development | ██████████████████░░ 90% |
+| 🤖 AI / LLM Engineering | ████████████████░░░░ 80% |
+| 🛠️ Backend & APIs | ████████████████████ 95% |
+| 🎨 Frontend & UI | ██████████████░░░░░░ 70% |
+| ⚙️ Automation & SRE | █████████████░░░░░░░ 65% |
 
 ---
 
@@ -128,4 +128,3 @@ Hey! I'm **Miguel**, a Systems Engineer passionate about building complex inform
 [![](https://visitcount.itsvg.in/api?id=MiguelAP30&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
-```
